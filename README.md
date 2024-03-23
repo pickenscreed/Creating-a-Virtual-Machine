@@ -1,3 +1,4 @@
+![Screenshot 2024-03-23 105215](https://github.com/pickenscreed/Creating-a-Virtual-Machine/assets/164103995/85283d68-ba68-45d2-b88f-fb6efa68961a)
 
 
 # Creating-a-VM
