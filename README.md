@@ -2,3 +2,11 @@
 
 # Creating-a-VM
 Tutorial on how to create a Virtual Machine in Microsoft Azure. Used Azure Resource Groups and Virtual Machines.
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: [Azure Virtual Machines(https://www.youtube.com](https://youtu.be/3P9jdVs9tNg))
+
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
